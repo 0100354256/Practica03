@@ -1,3 +1,2 @@
-18:
-Hello world
- => nil 
+21: Con ruby no se muestra la salida "=> nil".
+27: Pry es más potente: Existe identación, se puede definir en una funcion y ademas permite modificar los valores de las variables.
